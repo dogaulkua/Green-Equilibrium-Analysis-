@@ -10,6 +10,9 @@ Microplastic pollution is increasingly recognized as a significant environmental
 - Utilizing **Fuzzy Logic** to make predictions based on climatic and demographic data.
 - Aligning solutions with **climate action** and **gender equality** goals.
 
+## 🐍 Colab Link 
+https://colab.research.google.com/drive/13D05EMUCrJw-iXzHamSvkHSoGdsJMdO7?hl=tr#scrollTo=2LmeuZBja8LA
+
 ## 🛠️ Installation & Requirements
 
 To run this project locally, ensure you have the following dependencies installed:
