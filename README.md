@@ -11,7 +11,7 @@ Microplastic pollution is increasingly recognized as a significant environmental
 - Aligning solutions with **climate action** and **gender equality** goals.
 
 ## 🐍 Colab Link 
-https://colab.research.google.com/drive/13D05EMUCrJw-iXzHamSvkHSoGdsJMdO7?hl=tr#scrollTo=2LmeuZBja8LA
+[https://colab.research.google.com/drive/13D05EMUCrJw-iXzHamSvkHSoGdsJMdO7?hl=tr#scrollTo=2LmeuZBja8LA](https://colab.research.google.com/drive/13D05EMUCrJw-iXzHamSvkHSoGdsJMdO7?usp=sharing)
 
 ## 🛠️ Installation & Requirements
 
